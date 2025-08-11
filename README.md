@@ -2,6 +2,7 @@
 
 | Vendor | Link | Date |
 | ------ | ---- | ---- |
+| Analyst1 | https://analyst1.com/threat-actors/ | 2025-08-11 |
 | CrowdStrike | https://adversary.crowdstrike.com/en-US/ | 2025-01-30 |
 | Dragos | https://www.dragos.com/threat-groups/ | 2025-01-30 |
 | IBM | https://exchange.xforce.ibmcloud.com/search/ITG AND https://exchange.xforce.ibmcloud.com/search/hive | 2025-01-30 |
