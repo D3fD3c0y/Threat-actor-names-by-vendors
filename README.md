@@ -13,12 +13,14 @@
 | MITRE | https://attack.mitre.org/groups/ | 2025-01-30 |
 | Mandiant/Google Threat Intelligence | https://cloud.google.com/security/resources/insights/apt-groups?hl=en | 2025-01-30 |
 | Palo Alto | https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/ | 2025-01-30 |
+| Rosetta Stone of APT groups | https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit?gid=810474396#gid=810474396 | 2025-01-30 |
 | Secureworks | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
 | Symantec/Broadcom | https://www.symantec.broadcom.com/hubfs/Symantec_Ransomware_Threat_Landscape_2024.pdf | 2025-01-30 |
 | Thailand CERT | https://apt.thaicert.or.th/cgi-bin/listgroups.cgi | 2025-01-30 |
 | Thales | https://cds.thalesgroup.com/en/cyberthreat/attacks-page | 2025-01-30 |
+| ThreatRadar | https://apt.threatradar.net/ | 2025-05-27 |
 | Ukraine CERT | https://cert.gov.ua/search/UAC- | 2025-01-30 |
 | Vectra AI | https://www.vectra.ai/threat-actors | 2025-01-30 |
 | WIZ | https://threats.wiz.io/all-actors | 2025-01-30 |
-| Rosetta Stone of APT groups | https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit?gid=810474396#gid=810474396 | 2025-01-30 |
-| ThreatRadar | https://apt.threatradar.net/ | 2025-05-27 |
+
+
