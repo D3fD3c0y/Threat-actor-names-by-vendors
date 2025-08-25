@@ -11,6 +11,7 @@
 | Infoblox | https://www.infoblox.com/threat-intel/#threat-actors | 2025-01-30 |
 | Kaspersky | https://apt.securelist.com/ | 2025-01-30 |
 | Microsoft | https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming  | 2025-01-30 |
+| MISP Threat Actor Alias | https://www.misp-project.org/galaxy.html#_threat_actor | 2025-08-25 |
 | MITRE | https://attack.mitre.org/groups/ | 2025-01-30 |
 | Mandiant/Google Threat Intelligence | https://cloud.google.com/security/resources/insights/apt-groups?hl=en | 2025-01-30 |
 | Palo Alto | https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/ | 2025-01-30 |
