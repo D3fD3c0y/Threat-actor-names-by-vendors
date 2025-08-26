@@ -2,6 +2,7 @@
 
 | Vendor | Link | Date |
 | ------ | ---- | ---- |
+| Ahn Lab | https://www.ahnlab.com/en/service/threat-actor-naming | 2025-08-26 |
 | Analyst1 | https://analyst1.com/threat-actors/ | 2025-08-11 |
 | CrowdStrike | https://adversary.crowdstrike.com/en-US/ | 2025-01-30 |
 | Cyble | https://cyble.com/threat-actor-profiles/ | 2025-08-11 |
