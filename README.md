@@ -4,7 +4,7 @@
 | ------ | ---- | ---- |
 | Ahn Lab | https://www.ahnlab.com/en/service/threat-actor-naming | 2025-08-26 |
 | Analyst1 | https://analyst1.com/threat-actors/ | 2025-08-11 |
-| CrowdStrike | https://adversary.crowdstrike.com/en-US/ | 2025-01-30 |
+| CrowdStrike | https://adversary.crowdstrike.com/en-US/ AND https://www.crowdstrike.com/adversaries/ | 2025-01-30 |
 | Cyble | https://cyble.com/threat-actor-profiles/ | 2025-08-11 |
 | Dragos | https://www.dragos.com/threat-groups/ | 2025-01-30 |
 | Dark Web Informer | https://darkwebinformer.com/threat-actor-database/ | 2025-08-12 |
