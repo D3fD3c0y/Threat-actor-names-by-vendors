@@ -5,6 +5,7 @@
 | Ahn Lab | https://www.ahnlab.com/en/service/threat-actor-naming | 2025-08-26 |
 | Analyst1 | https://analyst1.com/threat-actors/ | 2025-08-11 |
 | APTMAP | https://andreacristaldi.github.io/APTmap/ | 2025-08-26 |
+| Bi.Zone | https://bi.zone/upload/for_download/Threat_Zone_2024_BI.ZONE_Research_eng.pdf (page 5) | 2025-08-27 |
 | CrowdStrike | https://adversary.crowdstrike.com/en-US/ AND https://www.crowdstrike.com/adversaries/ | 2025-01-30 |
 | Cyble | https://cyble.com/threat-actor-profiles/ | 2025-08-11 |
 | Dragos | https://www.dragos.com/threat-groups/ | 2025-01-30 |
