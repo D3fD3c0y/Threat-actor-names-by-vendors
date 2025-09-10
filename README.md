@@ -28,6 +28,7 @@
 | ThreatRadar | https://apt.threatradar.net/ | 2025-05-27 |
 | Ukraine CERT | https://cert.gov.ua/search/UAC- | 2025-01-30 |
 | Vectra AI | https://www.vectra.ai/threat-actors | 2025-01-30 |
+| VulDN | https://vuldb.com/?actor | 2025-09-10 |
 | WIZ | https://threats.wiz.io/all-actors | 2025-01-30 |
 
 
