@@ -19,7 +19,7 @@
 | MISP Threat Actor Alias | https://www.misp-project.org/galaxy.html#_threat_actor | 2025-08-25 |
 | MITRE | https://attack.mitre.org/groups/ | 2025-01-30 |
 | Mandiant/Google Threat Intelligence | https://cloud.google.com/security/resources/insights/apt-groups?hl=en | 2025-01-30 |
-| Palo Alto | https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/ | 2025-01-30 |
+| Palo Alto | https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/ AND https://unit42.paloaltonetworks.com/category/threat-actor-groups/ | 2025-01-30 |
 | Positive Technologies | https://global.ptsecurity.com/en/research/hacker-groups/ | 2025-11-19 |
 | Rosetta Stone of APT groups | https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit?gid=810474396#gid=810474396 | 2025-01-30 |
 | Secureworks | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
