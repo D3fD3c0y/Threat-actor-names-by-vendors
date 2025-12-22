@@ -11,7 +11,7 @@
 | Cyble | https://cyble.com/threat-actor-profiles/ | 2025-08-11 |
 | Dragos | https://www.dragos.com/threat-groups/ | 2025-01-30 |
 | Dark Web Informer | https://darkwebinformer.com/threat-actor-database/ | 2025-08-12 |
-| IBM | https://exchange.xforce.ibmcloud.com/search/ITG AND https://exchange.xforce.ibmcloud.com/search/hive | 2025-01-30 |
+| IBM | https://exchange.xforce.ibmcloud.com/search/ITG AND https://exchange.xforce.ibmcloud.com/search/hive | 2025-01-30 | 
 | Infoblox | https://www.infoblox.com/threat-intel/#threat-actors | 2025-01-30 |
 | Kaspersky | https://apt.securelist.com/ | 2025-01-30 |
 | Malpedia Threat Actors | https://malpedia.caad.fkie.fraunhofer.de/actors | 2025-08-26 |
