@@ -22,7 +22,7 @@
 | Palo Alto | https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/ AND https://unit42.paloaltonetworks.com/category/threat-actor-groups/ | 2025-01-30 |
 | Positive Technologies | https://global.ptsecurity.com/en/research/hacker-groups/ | 2025-11-19 |
 | Rosetta Stone of APT groups | https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit?gid=810474396#gid=810474396 | 2025-01-30 |
-| Secureworks | https://www.secureworks.com/research/threat-profiles | 2025-01-30 |
+| Sophos (Secureworks) | https://www.sophos.com/en-us/threat-profiles?page=1&pageSize=10 | 2025-01-30 |
 | StrangerealIntel Github mapping | https://github.com/StrangerealIntel/EternalLiberty/blob/main/EternalLiberty.csv | 2025-08-26 |
 | Symantec/Broadcom | https://www.symantec.broadcom.com/hubfs/Symantec_Ransomware_Threat_Landscape_2024.pdf AND https://www.symantec.broadcom.com/hubfs/2022_Ransomware_Whitepaper.pdf AND https://www.symantec.broadcom.com/hubfs/SED/SED_Threat_Hunter_Reports_Alerts/SED_FY22Q2_SES_Ransomware-Threat-Landscape_WP.pdf | 2025-01-30 |
 | Thailand CERT | https://apt.thaicert.or.th/cgi-bin/listgroups.cgi | 2025-01-30 |
